@@ -3,7 +3,7 @@
 ## Clone repo này
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Jye-a-dev/template_flask_server
 ```
 
 Template khởi tạo cho backend REST API bằng Python Flask theo hướng module rõ ràng, dùng:
